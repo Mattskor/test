@@ -1,0 +1,61 @@
+.wysokosc{
+ max-width:150px;
+}
+.wysokosc1{
+    max-width:130px;
+   }
+i{
+    font-size: x-large;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color:tomato;
+}
+body{
+    background-color: #eceff1;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#navi{
+    background-color: white;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    width: 99vw;
+    margin-left: -6.7%;
+    
+}
+.row span{
+    color:yellow;
+}
+.kolor1{
+    color:blue;
+}
+#svg{
+    margin:1.5%;
+}
+#share{
+    margin:1%;
+}
+#pictureno1{
+    padding:2%;
+}
+#pictureno2{
+    padding:0.5%;
+}
+#adv{
+    padding: 1%;
+    margin-top: 1%;
+    background-color: white;
+}
+#parameters{
+    padding: 1%;
+    margin-top: 1%;
+    background-color: white;
+}
+#description{
+    padding: 1%;
+    margin-top: 1%;
+    background-color: white;
+    text-align: right;
+}
